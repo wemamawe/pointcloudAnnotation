@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pt_anno
 
 > An annotation tool for pointcloud data
@@ -25,3 +26,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# pointcloudAnnotation
+a annotation tool for pointcloud data
+>>>>>>> d94e8157d979aa171d7ba179a4b89400b46c54f4
